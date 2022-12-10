@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:ital,wght@0,400;0,500;0,700;1,400;1,500;1,700&display=swap');
+
+*{
+    margin:0;
+    box-sizing: border-box;
+    font-family:'DM Sans';
+}
+
+
+
+.container{
+    width: 80vw;
+    margin: auto;
+}
+img{
+    width: 20px;
+    height: 20px;
+}
+
+.positiveValues{
+    color: greenyellow;
+}
+
+.negativeValues{
+    color: rgb(255, 47, 78);
+}
+
+table{
+    width: 100%;
+    margin:25px;
+    background-color: black;
+    color: white;
+    height: 500px;
+    border-collapse: collapse;
+}
+tr{
+    border-bottom: 1px solid white;
+    text-align: center;
+}
